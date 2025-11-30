@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "titulo": "Remédio mensal da Ivy",
+        "intervalo_dias": 30,
+        "ultima_data": "2025-11-28"
+    },
+    {
+        "id": 2,
+        "titulo": "Banho com shampoo especial",
+        "intervalo_dias": 7,
+        "ultima_data": "2025-11-30"
+    }
+]
